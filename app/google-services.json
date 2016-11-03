@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "828912909118",
+    "firebase_url": "https://passkey-81d93.firebaseio.com",
+    "project_id": "passkey-81d93",
+    "storage_bucket": "passkey-81d93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828912909118:android:aa65b8d95dff288b",
+        "android_client_info": {
+          "package_name": "testing.example.com.passkey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828912909118-q81vh5v3a00vpbkeploratvu9c3lpotm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBskAqgx1OEKcZrXQR6tBjLQO_jG5lRhCM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828912909118:android:3cc0735b41822092",
+        "android_client_info": {
+          "package_name": "testing.example.com.weather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828912909118-q81vh5v3a00vpbkeploratvu9c3lpotm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBskAqgx1OEKcZrXQR6tBjLQO_jG5lRhCM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
